@@ -1,0 +1,20 @@
+{"id": "e01", "query": "你好", "user_id": "u_demo", "expect_refused": false, "expect_keywords": [], "expect_strategy": "direct", "expect_pending": false}
+{"id": "e02", "query": "VPN 怎么申请", "user_id": "u_demo", "expect_refused": false, "expect_keywords": ["VPN"], "expect_strategy": "single", "expect_pending": false}
+{"id": "e03", "query": "TKT10001 处理到哪了", "user_id": "u_demo", "expect_refused": false, "expect_keywords": ["TKT10001"], "expect_strategy": "agent", "expect_pending": false}
+{"id": "e04", "query": "我的工单有哪些", "user_id": "u_demo", "expect_refused": false, "expect_keywords": ["TKT"], "expect_strategy": "agent", "expect_pending": false}
+{"id": "e05", "query": "AST10001 是谁的电脑", "user_id": "u_demo", "expect_refused": false, "expect_keywords": ["MacBook"], "expect_strategy": "agent", "expect_pending": false}
+{"id": "e06", "query": "我的资产", "user_id": "u_demo", "expect_refused": false, "expect_keywords": ["AST"], "expect_strategy": "agent", "expect_pending": false}
+{"id": "e07", "query": "帮我报修，显示器黑屏", "user_id": "u_demo", "expect_refused": false, "expect_keywords": ["工单"], "expect_strategy": "agent", "expect_pending": true}
+{"id": "e08", "query": "帮我申请 CRM 客户导出权限", "user_id": "u_demo", "expect_refused": false, "expect_keywords": ["审批"], "expect_strategy": "agent", "expect_pending": true}
+{"id": "e09", "query": "帮我重置密码", "user_id": "u_demo", "expect_refused": false, "expect_keywords": ["密码重置"], "expect_strategy": "agent", "expect_pending": true}
+{"id": "e10", "query": "帮我装 Figma", "user_id": "u_demo", "expect_refused": false, "expect_keywords": ["安装"], "expect_strategy": "agent", "expect_pending": true}
+{"id": "e11", "query": "账号被锁了怎么解锁", "user_id": "u_demo", "expect_refused": false, "expect_keywords": [], "expect_strategy": "agent", "expect_pending": false}
+{"id": "e12", "query": "离职流程是什么", "user_id": "u_demo", "expect_refused": false, "expect_keywords": ["离职"], "expect_strategy": "single", "expect_pending": false}
+{"id": "e13", "query": "客户数据能不能发到 ChatGPT", "user_id": "u_demo", "expect_refused": false, "expect_keywords": ["禁止"], "expect_strategy": "single", "expect_pending": false}
+{"id": "e14", "query": "外包账号有效期多久", "user_id": "u_demo", "expect_refused": false, "expect_keywords": ["90 天"], "expect_strategy": "single", "expect_pending": false}
+{"id": "e15", "query": "密码要多少位", "user_id": "u_demo", "expect_refused": false, "expect_keywords": ["12"], "expect_strategy": "single", "expect_pending": false}
+{"id": "e16", "query": "帮我写作业", "user_id": "u_demo", "expect_refused": true, "expect_keywords": [], "expect_strategy": "refuse", "expect_pending": false}
+{"id": "e17", "query": "今天股市怎么样", "user_id": "u_demo", "expect_refused": true, "expect_keywords": [], "expect_strategy": "refuse", "expect_pending": false}
+{"id": "e18", "query": "转人工", "user_id": "u_demo", "expect_refused": false, "expect_keywords": ["人工"], "expect_strategy": "agent", "expect_pending": false}
+{"id": "e19", "query": "电脑蓝屏了怎么办", "user_id": "u_demo", "expect_refused": false, "expect_keywords": ["蓝屏"], "expect_strategy": "single", "expect_pending": false}
+{"id": "e20", "query": "权限申请流程", "user_id": "u_demo", "expect_refused": false, "expect_keywords": ["审批"], "expect_strategy": "single", "expect_pending": false}

@@ -1,0 +1,7 @@
+{
+  "name": "software_request",
+  "description": "软件安装与 License 申请",
+  "triggers": ["装软件", "安装", "license", "许可", "申请软件"],
+  "steps": ["确认是否白名单", "检索安装规范", "生成安装或 License 审批单"],
+  "tools": ["search_knowledge", "request_software"]
+}

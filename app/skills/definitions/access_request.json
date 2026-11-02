@@ -1,0 +1,7 @@
+{
+  "name": "access_request",
+  "description": "业务系统权限申请",
+  "triggers": ["权限", "申请权限", "开通权限", "开权限", "要权限", "加权限", "给我开"],
+  "steps": ["确认系统与权限点", "说明审批链与时效", "生成审批单等待主管或信息安全组"],
+  "tools": ["search_knowledge", "request_access"]
+}

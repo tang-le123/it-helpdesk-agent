@@ -1,0 +1,7 @@
+{
+  "name": "human_handoff",
+  "description": "转人工与二线工程师",
+  "triggers": ["转人工", "人工客服", "找工程师", "值班经理", "升级处理"],
+  "steps": ["确认诉求与影响范围", "登记转人工原因", "进入人工队列"],
+  "tools": ["escalate_to_human"]
+}

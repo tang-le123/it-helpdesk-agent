@@ -1,0 +1,7 @@
+{
+  "name": "asset_query",
+  "description": "IT 资产查询",
+  "triggers": ["资产", "设备归属", "保修", "我的电脑", "序列号"],
+  "steps": ["定位资产号", "查询型号、归属与保修", "必要时引导报修或换新"],
+  "tools": ["get_asset", "list_my_assets"]
+}

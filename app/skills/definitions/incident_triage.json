@@ -1,0 +1,7 @@
+{
+  "name": "incident_triage",
+  "description": "故障报障与建单",
+  "triggers": ["报修", "报障", "坏了", "连不上", "蓝屏", "打不开", "开不了机"],
+  "steps": ["确认影响范围与优先级", "检索相关排障 SOP", "必要时创建工单并告知 SLA"],
+  "tools": ["search_knowledge", "create_ticket"]
+}

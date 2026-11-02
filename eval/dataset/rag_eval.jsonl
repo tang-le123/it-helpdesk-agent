@@ -1,0 +1,60 @@
+{"id": "r001", "query": "VPN 怎么申请", "relevant_doc_ids": ["vpn_access"], "gold_answer_contains": ["2 小时", "审批"]}
+{"id": "r002", "query": "VPN 证书过期怎么办", "relevant_doc_ids": ["vpn_troubleshoot"], "gold_answer_contains": ["6.1", "证书"]}
+{"id": "r003", "query": "VPN 连上但打不开内网", "relevant_doc_ids": ["vpn_troubleshoot"], "gold_answer_contains": ["办公网", "网段"]}
+{"id": "r004", "query": "外包能申请 VPN 吗", "relevant_doc_ids": ["vpn_access"], "gold_answer_contains": ["90 天", "双审批"]}
+{"id": "r005", "query": "办公 Wi-Fi 怎么连", "relevant_doc_ids": ["wifi_access"], "gold_answer_contains": ["Xinglan-Staff", "工号"]}
+{"id": "r006", "query": "访客 Wi-Fi 怎么申请", "relevant_doc_ids": ["wifi_access"], "gold_answer_contains": ["短信", "8 小时"]}
+{"id": "r007", "query": "企业邮箱在 Outlook 怎么配置", "relevant_doc_ids": ["email_setup"], "gold_answer_contains": ["993", "imap"]}
+{"id": "r008", "query": "邮箱容量多大", "relevant_doc_ids": ["email_setup"], "gold_answer_contains": ["50G"]}
+{"id": "r009", "query": "公司代理地址和端口是什么", "relevant_doc_ids": ["proxy_access"], "gold_answer_contains": ["8080", "proxy"]}
+{"id": "r010", "query": "访问境外网站要申请白名单吗", "relevant_doc_ids": ["proxy_access"], "gold_answer_contains": ["白名单", "信息安全组"]}
+{"id": "r011", "query": "公司断网了怎么报障", "relevant_doc_ids": ["network_incident"], "gold_answer_contains": ["P1", "8000"]}
+{"id": "r012", "query": "网络故障多久响应", "relevant_doc_ids": ["network_incident"], "gold_answer_contains": ["30 分钟", "4 小时"]}
+{"id": "r013", "query": "密码要多少位", "relevant_doc_ids": ["security_password_policy"], "gold_answer_contains": ["12 位"]}
+{"id": "r014", "query": "密码多久换一次", "relevant_doc_ids": ["security_password_policy"], "gold_answer_contains": ["90 天"]}
+{"id": "r015", "query": "账号被锁了怎么办", "relevant_doc_ids": ["password_reset"], "gold_answer_contains": ["30 分钟", "5 次"]}
+{"id": "r016", "query": "自助重置密码怎么操作", "relevant_doc_ids": ["password_reset"], "gold_answer_contains": ["飞书", "MFA"]}
+{"id": "r017", "query": "MFA 换手机怎么办", "relevant_doc_ids": ["mfa_binding"], "gold_answer_contains": ["P2", "30 分钟"]}
+{"id": "r018", "query": "MFA 验证码总是错误", "relevant_doc_ids": ["mfa_binding"], "gold_answer_contains": ["时间", "同步"]}
+{"id": "r019", "query": "新员工入职 IT 要准备什么", "relevant_doc_ids": ["onboarding_it"], "gold_answer_contains": ["1 个工作日", "设备"]}
+{"id": "r020", "query": "离职设备什么时候归还", "relevant_doc_ids": ["offboarding_it"], "gold_answer_contains": ["3 个工作日", "18:00"]}
+{"id": "r021", "query": "外包账号有效期多久", "relevant_doc_ids": ["account_shared", "account_lifecycle"], "gold_answer_contains": ["90 天", "双审批"]}
+{"id": "r022", "query": "职能邮箱怎么申请", "relevant_doc_ids": ["account_shared"], "gold_answer_contains": ["部门负责人", "邮件"]}
+{"id": "r023", "query": "CRM 权限怎么申请", "relevant_doc_ids": ["account_access_request"], "gold_answer_contains": ["主管", "审批"]}
+{"id": "r024", "query": "客户导出权限要谁审批", "relevant_doc_ids": ["account_access_request"], "gold_answer_contains": ["信息安全组", "高危"]}
+{"id": "r025", "query": "权限多久生效", "relevant_doc_ids": ["account_access_request"], "gold_answer_contains": ["1 个工作日", "90 天"]}
+{"id": "r026", "query": "新员工电脑什么时候发", "relevant_doc_ids": ["device_issue"], "gold_answer_contains": ["入职", "1 个工作日"]}
+{"id": "r027", "query": "电脑坏了怎么报修", "relevant_doc_ids": ["device_repair"], "gold_answer_contains": ["飞书", "报修"]}
+{"id": "r028", "query": "备用机借多久", "relevant_doc_ids": ["device_repair"], "gold_answer_contains": ["15 个工作日"]}
+{"id": "r029", "query": "我的资产怎么查", "relevant_doc_ids": ["asset_query"], "gold_answer_contains": ["飞书", "我的资产"]}
+{"id": "r030", "query": "保修到期会提醒吗", "relevant_doc_ids": ["asset_query"], "gold_answer_contains": ["30 天", "提醒"]}
+{"id": "r031", "query": "显示器每人能领几台", "relevant_doc_ids": ["peripheral"], "gold_answer_contains": ["27 寸", "1 台"]}
+{"id": "r032", "query": "扩展坞怎么申请", "relevant_doc_ids": ["peripheral"], "gold_answer_contains": ["WD19S", "领用"]}
+{"id": "r033", "query": "设备满几年能换新", "relevant_doc_ids": ["laptop_upgrade"], "gold_answer_contains": ["4 年"]}
+{"id": "r034", "query": "旧设备数据怎么处理", "relevant_doc_ids": ["laptop_upgrade"], "gold_answer_contains": ["擦除", "NIST"]}
+{"id": "r035", "query": "电脑丢了怎么办", "relevant_doc_ids": ["device_lost"], "gold_answer_contains": ["8000", "锁定"]}
+{"id": "r036", "query": "丢失设备要赔偿吗", "relevant_doc_ids": ["device_lost"], "gold_answer_contains": ["折旧", "赔偿"]}
+{"id": "r037", "query": "软件白名单有哪些", "relevant_doc_ids": ["software_catalog"], "gold_answer_contains": ["白名单", "公司门户"]}
+{"id": "r038", "query": "怎么自助安装软件", "relevant_doc_ids": ["software_catalog"], "gold_answer_contains": ["公司门户", "Intune"]}
+{"id": "r039", "query": "白名单外软件怎么申请", "relevant_doc_ids": ["software_install"], "gold_answer_contains": ["主管", "1 个工作日"]}
+{"id": "r040", "query": "软件安装要多久", "relevant_doc_ids": ["software_install"], "gold_answer_contains": ["1 个工作日", "3 个工作日"]}
+{"id": "r041", "query": "License 怎么申请", "relevant_doc_ids": ["license_request"], "gold_answer_contains": ["浮动", "固定"]}
+{"id": "r042", "query": "License 闲置会被回收吗", "relevant_doc_ids": ["license_request"], "gold_answer_contains": ["60 天"]}
+{"id": "r043", "query": "能用 ChatGPT 吗", "relevant_doc_ids": ["app_ai_tools"], "gold_answer_contains": ["未授权", "ai.xinglan.tech"]}
+{"id": "r044", "query": "客户数据能发给 AI 吗", "relevant_doc_ids": ["app_ai_tools"], "gold_answer_contains": ["L3", "禁止"]}
+{"id": "r045", "query": "软件大版本什么时候升级", "relevant_doc_ids": ["software_upgrade"], "gold_answer_contains": ["灰度", "5%"]}
+{"id": "r046", "query": "安全补丁必须装吗", "relevant_doc_ids": ["software_upgrade"], "gold_answer_contains": ["7 天", "强制"]}
+{"id": "r047", "query": "数据分几级", "relevant_doc_ids": ["data_classification"], "gold_answer_contains": ["L1", "L4"]}
+{"id": "r048", "query": "客户数据导出要审批吗", "relevant_doc_ids": ["data_classification"], "gold_answer_contains": ["信息安全组", "审批"]}
+{"id": "r049", "query": "钓鱼邮件怎么识别", "relevant_doc_ids": ["phishing_report"], "gold_answer_contains": ["发件人", "链接"]}
+{"id": "r050", "query": "点了钓鱼链接怎么办", "relevant_doc_ids": ["phishing_report"], "gold_answer_contains": ["断网", "密码"]}
+{"id": "r051", "query": "私人 U 盘能插吗", "relevant_doc_ids": ["security_usb"], "gold_answer_contains": ["禁止", "加密"]}
+{"id": "r052", "query": "公司 U 盘丢了怎么办", "relevant_doc_ids": ["security_usb"], "gold_answer_contains": ["挂失", "擦除"]}
+{"id": "r053", "query": "会议室怎么投屏", "relevant_doc_ids": ["meeting_room"], "gold_answer_contains": ["HDMI", "6 位码"]}
+{"id": "r054", "query": "会议室设备坏了找谁", "relevant_doc_ids": ["meeting_room"], "gold_answer_contains": ["P3", "工单"]}
+{"id": "r055", "query": "打印每月多少页", "relevant_doc_ids": ["process_print"], "gold_answer_contains": ["200 页"]}
+{"id": "r056", "query": "彩色打印怎么申请", "relevant_doc_ids": ["process_print"], "gold_answer_contains": ["彩色", "审批"]}
+{"id": "r057", "query": "公司用什么办公软件", "relevant_doc_ids": ["faq_company"], "gold_answer_contains": ["飞书", "金蝶"]}
+{"id": "r058", "query": "IT 服务台几点上班", "relevant_doc_ids": ["faq_company"], "gold_answer_contains": ["9:00", "19:00"]}
+{"id": "r059", "query": "工单多久响应", "relevant_doc_ids": ["faq_company"], "gold_answer_contains": ["P1", "30 分钟"]}
+{"id": "r060", "query": "外包和正式员工权限有区别吗", "relevant_doc_ids": ["account_shared", "account_access_request"], "gold_answer_contains": ["90 天", "客户数据"]}

@@ -1,0 +1,100 @@
+{"id": "i001", "query": "你好", "intent": "greeting"}
+{"id": "i002", "query": "您好，在吗", "intent": "greeting"}
+{"id": "i003", "query": "hi", "intent": "greeting"}
+{"id": "i004", "query": "hello", "intent": "greeting"}
+{"id": "i005", "query": "早上好", "intent": "greeting"}
+{"id": "i006", "query": "哈喽", "intent": "greeting"}
+{"id": "i007", "query": "下午好", "intent": "greeting"}
+{"id": "i008", "query": "你好！", "intent": "greeting"}
+{"id": "i009", "query": "今天天气真好", "intent": "chitchat"}
+{"id": "i010", "query": "讲个笑话", "intent": "chitchat"}
+{"id": "i011", "query": "你是谁", "intent": "chitchat"}
+{"id": "i012", "query": "你叫什么名字", "intent": "chitchat"}
+{"id": "i013", "query": "你是不是机器人", "intent": "chitchat"}
+{"id": "i014", "query": "今天吃什么", "intent": "chitchat"}
+{"id": "i015", "query": "离职流程是什么", "intent": "faq_policy"}
+{"id": "i016", "query": "外包账号有效期多久", "intent": "faq_policy"}
+{"id": "i017", "query": "密码要多少位", "intent": "faq_policy"}
+{"id": "i018", "query": "报修流程是什么", "intent": "faq_policy"}
+{"id": "i019", "query": "权限审批要多久", "intent": "faq_policy"}
+{"id": "i020", "query": "软件安装流程是什么", "intent": "faq_policy"}
+{"id": "i021", "query": "设备保修期多久", "intent": "faq_policy"}
+{"id": "i022", "query": "VPN 掉线怎么排查", "intent": "faq_policy"}
+{"id": "i023", "query": "新员工入职要准备什么", "intent": "faq_policy"}
+{"id": "i024", "query": "会议室怎么投屏", "intent": "faq_policy"}
+{"id": "i025", "query": "打印每月多少页", "intent": "faq_policy"}
+{"id": "i026", "query": "钓鱼邮件怎么上报", "intent": "faq_policy"}
+{"id": "i027", "query": "数据分级有几级", "intent": "faq_policy"}
+{"id": "i028", "query": "代理怎么配置", "intent": "faq_policy"}
+{"id": "i029", "query": "邮箱容量多大", "intent": "faq_policy"}
+{"id": "i030", "query": "设备以旧换新条件是什么", "intent": "faq_policy"}
+{"id": "i031", "query": "离职时设备怎么归还", "intent": "faq_policy"}
+{"id": "i032", "query": "外包账号能访问客户数据吗", "intent": "faq_policy"}
+{"id": "i033", "query": "MFA 丢失了怎么办", "intent": "faq_policy"}
+{"id": "i034", "query": "账号密码规则是什么", "intent": "faq_policy"}
+{"id": "i035", "query": "TKT10001 处理到哪了", "intent": "ticket_status"}
+{"id": "i036", "query": "TKT10003 什么时候能审批完", "intent": "ticket_status"}
+{"id": "i037", "query": "我的工单什么时候能修好", "intent": "ticket_status"}
+{"id": "i038", "query": "我的工单进度怎么样了", "intent": "ticket_status"}
+{"id": "i039", "query": "工单号 TKT10002 现在什么状态", "intent": "ticket_status"}
+{"id": "i040", "query": "帮我查一下 TKT10001", "intent": "ticket_status"}
+{"id": "i041", "query": "我的工单处理到哪一步了", "intent": "ticket_status"}
+{"id": "i042", "query": "TKT10003 卡在哪个环节", "intent": "ticket_status"}
+{"id": "i043", "query": "工单状态怎么查", "intent": "ticket_status"}
+{"id": "i044", "query": "我的工单列表", "intent": "ticket_status"}
+{"id": "i045", "query": "TKT10002 修好了吗", "intent": "ticket_status"}
+{"id": "i046", "query": "工单进度到哪了", "intent": "ticket_status"}
+{"id": "i047", "query": "AST10001 是谁的电脑", "intent": "asset_query"}
+{"id": "i048", "query": "AST10002 什么型号", "intent": "asset_query"}
+{"id": "i049", "query": "我的 MacBook 保修到什么时候", "intent": "asset_query"}
+{"id": "i050", "query": "这台电脑的序列号是多少", "intent": "asset_query"}
+{"id": "i051", "query": "AST10003 现在在谁名下", "intent": "asset_query"}
+{"id": "i052", "query": "我的资产有哪些", "intent": "asset_query"}
+{"id": "i053", "query": "设备归属怎么查", "intent": "asset_query"}
+{"id": "i054", "query": "资产编号 AST10001 的保修期", "intent": "asset_query"}
+{"id": "i055", "query": "我的显示器保修到哪年", "intent": "asset_query"}
+{"id": "i056", "query": "这台电脑是谁的", "intent": "asset_query"}
+{"id": "i057", "query": "VPN 连不上怎么办", "intent": "incident_report"}
+{"id": "i058", "query": "电脑蓝屏了", "intent": "incident_report"}
+{"id": "i059", "query": "显示器黑屏了", "intent": "incident_report"}
+{"id": "i060", "query": "笔记本开不了机", "intent": "incident_report"}
+{"id": "i061", "query": "办公室断网了", "intent": "incident_report"}
+{"id": "i062", "query": "邮箱打不开", "intent": "incident_report"}
+{"id": "i063", "query": "电脑卡死了", "intent": "incident_report"}
+{"id": "i064", "query": "键盘坏了", "intent": "incident_report"}
+{"id": "i065", "query": "系统提示中毒", "intent": "incident_report"}
+{"id": "i066", "query": "钉钉打不开", "intent": "incident_report"}
+{"id": "i067", "query": "我的电脑死机了", "intent": "incident_report"}
+{"id": "i068", "query": "打印机坏了", "intent": "incident_report"}
+{"id": "i069", "query": "显示器坏了", "intent": "incident_report"}
+{"id": "i070", "query": "电脑开不了机", "intent": "incident_report"}
+{"id": "i071", "query": "帮我申请 CRM 客户导出权限", "intent": "access_request"}
+{"id": "i072", "query": "账号被锁了怎么解锁", "intent": "access_request"}
+{"id": "i073", "query": "我要开通 ERP 采购审批权限", "intent": "access_request"}
+{"id": "i074", "query": "给外包开个 GitLab 权限", "intent": "access_request"}
+{"id": "i075", "query": "密码重置怎么弄", "intent": "access_request"}
+{"id": "i076", "query": "帮我加权限，访问生产库", "intent": "access_request"}
+{"id": "i077", "query": "申请账号要走什么流程", "intent": "faq_policy"}
+{"id": "i078", "query": "我的飞书账号被锁了", "intent": "access_request"}
+{"id": "i079", "query": "需要开通 VPN 权限", "intent": "access_request"}
+{"id": "i080", "query": "密码忘了怎么重置", "intent": "access_request"}
+{"id": "i081", "query": "权限到期了怎么续期", "intent": "access_request"}
+{"id": "i082", "query": "外包要申请账号", "intent": "access_request"}
+{"id": "i083", "query": "帮我装 Figma", "intent": "software_request"}
+{"id": "i084", "query": "申请安装 MATLAB", "intent": "software_request"}
+{"id": "i085", "query": "Docker Desktop 怎么装", "intent": "software_request"}
+{"id": "i086", "query": "需要申请 JetBrains License", "intent": "software_request"}
+{"id": "i087", "query": "软件安装要审批吗", "intent": "software_request"}
+{"id": "i088", "query": "软件安装申请 Postman", "intent": "software_request"}
+{"id": "i089", "query": "帮我安装 Zoom", "intent": "software_request"}
+{"id": "i090", "query": "帮我安装软件", "intent": "software_request"}
+{"id": "i091", "query": "你们 IT 什么态度，我要投诉", "intent": "complaint"}
+{"id": "i092", "query": "工单三天没人管", "intent": "complaint"}
+{"id": "i093", "query": "客服推诿不给处理", "intent": "complaint"}
+{"id": "i094", "query": "这个服务太差，我要给差评", "intent": "complaint"}
+{"id": "i095", "query": "转人工", "intent": "human_handoff"}
+{"id": "i096", "query": "帮我找工程师", "intent": "human_handoff"}
+{"id": "i097", "query": "叫你们值班经理来", "intent": "human_handoff"}
+{"id": "i098", "query": "今天股市怎么样", "intent": "out_of_scope"}
+{"id": "i099", "query": "帮我写作业", "intent": "out_of_scope"}
+{"id": "i100", "query": "我头疼要看病", "intent": "out_of_scope"}

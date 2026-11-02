@@ -1,0 +1,7 @@
+{
+  "name": "ticket_tracking",
+  "description": "工单进度查询",
+  "triggers": ["工单", "进度", "处理到哪", "什么时候修好", "我的单"],
+  "steps": ["定位工单号", "查询状态与最近进展", "解释 SLA 与下一步"],
+  "tools": ["get_ticket", "list_my_tickets"]
+}
